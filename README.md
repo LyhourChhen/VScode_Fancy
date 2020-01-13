@@ -68,4 +68,7 @@
 }
 
 ```
- - `shift + options + F` : formate code for react 
+#### Worthy Tips 
+ - `shift + options + F` : Formatting code for React. 
+#### Worthy Plugins 
+ - [Beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify) : Formatting code for webDev(JS,JSON,CSS,HTML)
