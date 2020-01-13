@@ -72,3 +72,5 @@
  - `shift + options + F` : Formatting code for React. 
 #### Worthy Plugins 
  - [Beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify) : Formatting code for webDev(JS,JSON,CSS,HTML)
+ - [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) : Checking the spelling while you code.
+ - [vscode-spotify](https://marketplace.visualstudio.com/items?itemName=shyykoserhiy.vscode-spotify) : Use Spotify inside VScode.
