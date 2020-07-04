@@ -1,6 +1,6 @@
 ### Vscode : Fancy Tip
 
-`updated : 13/jan/2020 //settings.json`
+
 
 ```json
 {
